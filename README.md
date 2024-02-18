@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikasrthoad
+- 👋 Hi, I’m @vikasrathod
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... java ,html,css,c
 - 💞️ I’m looking to collaborate on ... programing languages
